@@ -44,7 +44,7 @@ body::after {
 }
 
 .card {
-    /* Estiliza o cartão principal */
+    /* Estiliza o cartão principal*/
     position: relative;
     z-index: 1;
     background: rgba(255, 255, 255, 0.04);
