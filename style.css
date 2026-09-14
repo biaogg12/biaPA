@@ -37,7 +37,7 @@ body::before {
 }
 
 body::after {
-    /* Posicionamento a luz azul */
+    /* Posicionamento a luz azul*/
     background: #2563eb;
     bottom: 20%;
     right: 25%;
