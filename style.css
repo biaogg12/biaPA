@@ -19,7 +19,7 @@ body {
 }
 
 body::before, body::after {
-    /* cria os efeitos de luz no fundo */
+    /* cria os efeitos de luz no fundo*/
     content: '';
     position: absolute;
     width: 300px;
