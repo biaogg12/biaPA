@@ -121,3 +121,12 @@ p{
     box-shadow: 0 0 25px rgba(239, 68, 68, 0.6);
     transform: scale(1.02);
 }
+
+/*segunda parte do css*/
+
+.conteudo {
+    position: relative;
+    z-index: 1;
+    max-width: 1000px;
+    text-align: center;
+}
