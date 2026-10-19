@@ -144,3 +144,21 @@ p{
     /*define o espaço entre os cartoes*/
     gap: 20px;
 }
+.info-card {
+    /*define o fundo e as bordas dos cartoes*/
+    background: rgba(255, 255, 255, 0.04);
+    border: 1px;
+
+    /*arredonda os cantos*/
+    border-radius: 8px;
+
+    /*define o espaçamento interno*/
+    padding: 30px;
+
+    /*alinha o conteúdo à esquerda*/
+    text-align: left;
+
+    /*adiciona uma transição suave*/
+    transition: o.3 ease; 
+    
+}
