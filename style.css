@@ -172,4 +172,8 @@ p {
         /*diminui o tamanho do título no celular*/
         font-size: 1.6rem;
     }
+
+    .info-card{
+        padding: 2px;
+    }
 }
