@@ -191,3 +191,8 @@ p {
 }
 
 /*PARTE 3: ESTILOS DAS NOVAS FUNCIONALIDADES*/
+.menu-estudo, .rodape-estudo {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
