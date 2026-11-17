@@ -196,3 +196,9 @@ p {
     z-index: 1;
     text-align: center;
 }
+.menu-estudo{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 12px;
+}
